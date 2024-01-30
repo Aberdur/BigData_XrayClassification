@@ -9,7 +9,7 @@ The dataset used in this project was obtained from the Kaggle competition "Chest
 In this project, a CNN was implemented using TensorFlow to classify chest X-ray images into two categories: "with pneumonia" and "without pneumonia". Several convolutional and pooling layers were used, followed by fully connected layers for classification.
 
 ## BigDL
-In addition to TensorFlow, the implementation of a CNN using BigDL was explored. BigDL is a distributed deep learning library for Apache Spark. BigDL enables training deep learning models on large distributed datasets using the power of Spark.
+In addition to TensorFlow, the implementation of BigDL was explored. BigDL is a distributed deep learning library for Apache Spark. BigDL enables training deep learning models on large distributed datasets using the power of Spark.
 
 ## Comparison of Results
 The results obtained by both approaches were compared in terms of accuracy, training time, and overall performance in classifying chest X-ray images.
